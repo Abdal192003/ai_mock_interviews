@@ -1,3 +1,26 @@
+<h1 align="center" id="title">AI Interview Agent Platform</h1>
+
+<p id="description">This AI Platform will help the user to practice well for the interview question both technical behavioral or according to their choices of background, job roles, fields, experience level. This Platform will give a real-like interview experience so to practice well and user can also ask for the feedback of their interview and tips to enhance their&nbsp;performance.</p>
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Next.js
+*   Vapi AI Voice Agent
+*   Typescript
+*   Tailwindcss
+*   Shadcn
+*   OpenAI Model
+*   Firebase
+
+<h2>💖Like my work?</h2>
+
+MADE BY ABDAL AHMAD KHAN
+
+##
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
